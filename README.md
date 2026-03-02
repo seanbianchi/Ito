@@ -16,4 +16,4 @@ Share lists via URL (doesn't work on iOS)
 
 Scale labels — define what 1 and 100 mean for each category
 
-Visit: https://seanbianchi.github.io/ito/
+Visit: https://seanbianchi.github.io/Ito/
